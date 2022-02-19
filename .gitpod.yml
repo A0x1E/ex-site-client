@@ -1,0 +1,5 @@
+vscode:
+  extensions:
+    - johnsoncodehk.volar
+    - esbenp.prettier-vscode
+    - dbaeumer.vscode-eslint
