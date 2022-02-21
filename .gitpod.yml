@@ -1,3 +1,8 @@
+tasks:
+  - before: pnpm install
+  - name: Vite [dev]
+    command: pnpm dev
+
 vscode:
   extensions:
     - johnsoncodehk.volar
