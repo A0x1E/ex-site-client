@@ -1,5 +1,5 @@
 {
-  "eslint.validate": ["vue", "javascript"],
+  "eslint.validate": ["vue", "javascript", "typescript"],
   "eslint.packageManager": "pnpm",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
