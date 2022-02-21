@@ -1,6 +1,6 @@
 tasks:
-  - before: pnpm install
   - name: Vite [dev]
+    before: pnpm install
     command: pnpm dev
 
 vscode:
